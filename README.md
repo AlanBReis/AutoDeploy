@@ -1,4 +1,4 @@
-# VM Setup Automação para devs
+# VM Setup Automação
 
 ## Sobre
 Este projeto automatiza a configuração de uma máquina virtual (VM) com todas as ferramentas e softwares necessários para que um desenvolvedor inicie um novo projeto de maneira rápida e eficiente. A automação é realizada utilizando **Ansible** ou **Terraform**, garantindo que o ambiente seja configurado de forma consistente e com os padrões desejados.
